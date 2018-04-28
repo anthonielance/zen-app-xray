@@ -1,0 +1,14 @@
+{
+  "name": "request-xray",
+  "version": "1.0.0",
+  "description": "Zendesk App for requester information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthonie Lance",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
